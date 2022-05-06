@@ -1,8 +1,8 @@
 .pagination {
+  width: 1077px;
+
   display: flex;
   justify-content: space-between;
-
-  width: 1077px;
 
   margin-left: 78px;
 }
